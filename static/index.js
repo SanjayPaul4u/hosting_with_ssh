@@ -1,0 +1,1 @@
+console.log("No one is safe! this is important code and if we want to use that code(No one is safe ) in every file, then we have to use \"static\"");
